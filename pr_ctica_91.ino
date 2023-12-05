@@ -1,4 +1,10 @@
-// C++ code
+/******************************************************************************
+*  Este e un programa para o uso de saídas dixitais en arduino
+*  Texto para encendido led conectado ao pin 13 10 segundos e apagado 4 segundos.
+*   Autor: Javier Figueiro
+*   Data: 05/12/2023
+******************************************************************************/  
+  // C++ code
 //
 void setup()
 {
